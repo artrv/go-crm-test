@@ -1,0 +1,16 @@
+{
+    "name": "groninartem/go-crm-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Artem",
+            "email": "groninartem@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.1",
+        "phpunit/phpunit": "^9.5",
+        "mockery/mockery": "^1.4",
+        "psr/event-dispatcher": "^1.0"
+    }
+}
